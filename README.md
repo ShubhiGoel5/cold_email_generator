@@ -45,7 +45,7 @@ An AI-powered Cold Email Generator that automatically extracts job postings from
 ```bash
 
 # 1. Clone the repo
-git clone https://github.com/shinieaggarwal72/cold-mail-generator.git
+git clone https://github.com/shubhigoel5/cold-mail-generator.git
 cd cold-mail-generator/app
 
 # 2. Create a virtual environment
